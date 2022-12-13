@@ -1,0 +1,58 @@
+[
+    {
+        "img": "https://i.ibb.co/Zm5QKyK/bedroom500x330.jpg",
+        "name": "Furnix Furniture",
+        "tools": "Tailwind-CSS, Google Firebase, React.js, Express.js, Node.js, Stripe Payment, MongoDB.",
+        "description": "This is a website based on purchasing and selling second-hand products and there are three roles on this site. In-Dash Board Section an Admin can see all buyers and sellers, delete all reported products also verified them. Sellers can Upload, delete, and advertise his/her products, buyers can buy products and pay. Advertise will show on home page. Admin Id: (email: palash@palash.com, password: 123456)",
+        "live_link": "https://furnix-furniture.web.app",
+        "client_side": "https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-Palash-ahmed.git",
+        "server_side": "https://github.com/programming-hero-web-course-4/b612-used-products-resale-server-side-Palash-ahmed.git"
+      },
+    {
+        "img": "https://i.ibb.co/C8ZgF6F/plumbing-heating-boiler-installation-service-repair.jpg",
+        "name": "Plumber Boy",
+        "tools": "Tailwind-CSS, Google Firebase, React.js, Express.js, Node.js, JWT, MongoDB.",
+        "description": "This is a service review website for Plumber. You can add, delete and update your review. After Login with your username and password, you can also add a service with services details in a form. when you will go to my review page there will generate a JWT token for security purposes.",
+        "live_link": "https://plumber-boy-fef9f.web.app",
+        "client_side": "https://github.com/Porgramming-Hero-web-course/b6a11-service-review-client-side-Palash-ahmed.git",
+        "server_side": "https://github.com/Porgramming-Hero-web-course/b6a11-service-review-server-side-Palash-ahmed.git"
+      },
+    {
+        "img": "https://i.ibb.co/gD08XC7/computer-programmer-profile-image.jpg",
+        "name": "Education Unlimited",
+        "tools": "Tailwind, Google Firebase, React.js, Express.js, Node.js.",
+        "description": "This is a website based on Education. You can purchase any course of them. To get premium access you have to log in first then you can get the premium services with the private route. This is a react Base Project and used google authentication for login and sign-up and is responsive for all devices.",
+        "live_link": "https://education-unlimited-d6301.web.app",
+        "client_side": "https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-Palash-ahmed.git",
+        "server_side": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Palash-ahmed.git"
+      },
+    {
+        "img": "https://i.ibb.co/JrJght9/Working-with-adaptive-quizzes-A-beginners-guide.webp",
+        "name": "Quizizz BD",
+        "tools": "Bootstrap,React-Bootstrap,React.js, Rest-API",
+        "description": "This is a website based on Online Quiz Platform. This site made for test your skill. Don't be Late test your IQ. You can select any topic for participate the quiz test. The correct and wrong answer will show in modal. There has a eye button to show the wright answer. there has a statistic page in Statistic route.",
+        "live_link": "https://tourmaline-eclair-940468.netlify.app",
+        "client_side": "https://github.com/programming-hero-web-course2/b6-quiz-crackerz-Palash-ahmed.git",
+        "server_side": "https://github.com/programming-hero-web-course2/b6-quiz-crackerz-Palash-ahmed.git"
+      },
+    {
+        "img": "https://i.ibb.co/3CsJfNj/jogging.jpg",
+        "name": "Future Fitness",
+        "tools": "vanilla-CSS, html, React.js, local Storage",
+        "description": "Gym Zone BD is a site for select a exercise . When you will select the exercise the timer will added in exercise details. If you will add a Break time then it save into local storage and after refresh the page it's load from local storage. This is my 1st Project in React.js. Basically i used some state, hooks and local storage for the first time in a project",
+        "live_link": "https://animated-rolypoly-4d6d79.netlify.app/",
+        "client_side": "https://github.com/Programming-Hero-Web-Course4/b6-ultra-active-club-Palash-ahmed.git",
+        "server_side": "https://github.com/Programming-Hero-Web-Course4/b6-ultra-active-club-Palash-ahmed.git"
+      },
+    {
+        "img": "https://i.ibb.co/x3KcMR1/Ronaldo-Kaka-Adriano-Ronaldinho.jpg",
+        "name": "Select Your Best Five",
+        "tools": "Bootstrap, JavaScript, HTML, CSS, java script dom properties",
+        "description": "This a Java Script DOM Manipulation Project. You can select any five player from the player list. There has also a money calculator section. you can calculate per player and their team manager and coach's total cost.",
+        "live_link": "https://spectacular-froyo-e58c42.netlify.app/",
+        "client_side": "https://github.com/programming-hero-web-course2/best-five-dom-assignment-Palash-ahmed.git",
+        "server_side": "https://github.com/programming-hero-web-course2/best-five-dom-assignment-Palash-ahmed.git"
+      }
+    
+  ]
+  
